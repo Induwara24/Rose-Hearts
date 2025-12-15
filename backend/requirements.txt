@@ -1,0 +1,15 @@
+# --- Core Web Framework ---
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.11.7
+starlette==0.47.2
+
+# --- Core Scientific Stack ---
+numpy
+tensorflow==2.16.1 # Stable TF 2.x release
+Pillow # Good practice for image handling
+scikit-learn # Used for general DL tasks
+
+# --- Image Processing & XAI ---
+opencv-python-headless
+lime
