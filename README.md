@@ -3,16 +3,16 @@
 **Rose Hearts** is a web-based decision support system designed to assist radiologists in the early detection of breast cancer from mammograms. It utilizes advanced Deep Learning (ResNet-50) and Explainable AI (XAI) to provide accurate, transparent, and trustworthy diagnostic insights.
 
 <div align="center">
-  <img src="image/home1.jpg" alt="Home" width="600"/>
+  <img src="image/home1.png" alt="Home" width="600"/>
 </div>
 <div align="center">
-  <img src="image/results1.jpg" alt="Home" width="600"/>
+  <img src="image/results1.png" alt="Home" width="600"/>
 </div>
 <div align="center">
-  <img src="image/results2.jpg" alt="Home" width="600"/>
+  <img src="image/results2.png" alt="Home" width="600"/>
 </div>
 <div align="center">
-  <img src="image/results3.jpg" alt="Home" width="600"/>
+  <img src="image/results3.png" alt="Home" width="600"/>
 </div>
 
 -----
