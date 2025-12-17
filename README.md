@@ -44,7 +44,7 @@ Breast cancer is the leading cause of cancer-related mortality among Sri Lankan 
 ## 🏗️ System Architecture
 
 <div align="center">
-  <img src="image/Rose Hearts Architecture .png" alt="Home" width="600"/>
+  <img src="image/Rose Hearts Architecture .png" alt="Home"/>
 </div>
 
 
