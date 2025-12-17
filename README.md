@@ -43,6 +43,11 @@ Breast cancer is the leading cause of cancer-related mortality among Sri Lankan 
 
 ## 🏗️ System Architecture
 
+<div align="center">
+  <img src="image/Rose Hearts Architecture .png" alt="Home" width="600"/>
+</div>
+
+
 ### **Tech Stack**
 
   * **Frontend:** React (Vite), TypeScript, Tailwind CSS, Shadcn/UI.
