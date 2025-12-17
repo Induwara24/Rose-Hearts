@@ -6,13 +6,13 @@
   <img src="image/home1.png" alt="Home"/>
 </div>
 <div align="center">
-  <img src="image/results1.png" alt="Home" width="600"/>
+  <img src="image/results1.png" alt="Home"/>
 </div>
 <div align="center">
-  <img src="image/results2.png" alt="Home" width="600"/>
+  <img src="image/results2.png" alt="Home"/>
 </div>
 <div align="center">
-  <img src="image/results3.png" alt="Home" width="600"/>
+  <img src="image/results3.png" alt="Home"/>
 </div>
 
 -----
